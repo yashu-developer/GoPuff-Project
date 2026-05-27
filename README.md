@@ -122,13 +122,6 @@ The project includes important business KPIs such as:
 
 ---
 
-# 📷 Dashboard Preview
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="650" />
-
-</div>
 
 ---
 
@@ -203,15 +196,6 @@ jupyter notebook
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical"/>
-
-</div>
 
 ---
 
